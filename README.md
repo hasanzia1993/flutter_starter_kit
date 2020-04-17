@@ -1,23 +1,22 @@
 # flutter_starter_kit
 Reusable Flutter Starter Kit with Login, Signup. Also includes Account page.
 
-# Login
-<img src="images/screenshots/login.png" width="500"  />
+# Screenshots
+<p float="left">
+        <img src="images/screenshots/login.png" width="200"  hspace="10"/>
+        <img src="images/screenshots/reset_pass.png" width="200"  hspace="10"/>
+        <img src="images/screenshots/create.png" width="200"  hspace="10"/>
+        <img src="images/screenshots/signup_email.png" width="200" />
 
-# Reset Password
-<img src="images/screenshots/reset_pass.png" width="500"  />
 
-# Create New Account
-<img src="images/screenshots/create.png" width="500"  />
+</p>
 
-# Signup With Email
-<img src="images/screenshots/signup_email.png" width="500"  />
+<p float="left">
+<img src="images/screenshots/home.png" width="220"  hspace="10" />
+<img src="images/screenshots/account.png" width="220"  />
 
-# Home
-<img src="images/screenshots/home.png" width="500"  />
+</p>
 
-# Account
-<img src="images/screenshots/account.png" width="500"  />
 
 
 
